@@ -10,8 +10,12 @@
           <option name="url" value="http://git.banmamedia.net/yang.wang/doubao-openwx.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.eversaas.cn:packeteye/packeteye.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\workspace\work\dbw" />
+    <option name="cloneParentDir" value="D:\workspace\work\hajx" />
   </component>
 </application>
